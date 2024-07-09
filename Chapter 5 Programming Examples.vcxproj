@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Chapter 5 Programming Examples.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Random.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
